@@ -1,0 +1,17 @@
+{
+  "name": "SN Notizen",
+  "short_name": "SN Notizen",
+  "description": "Schnell erfassen, später ordentlich bearbeiten – Notizen, Fotos und Aufgaben.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F5F4",
+  "theme_color": "#006748",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
