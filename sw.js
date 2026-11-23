@@ -2,7 +2,7 @@
    Mit Internet: holt die App-Seite immer frisch von GitHub (Updates kommen sofort an).
    Ohne Internet: nimmt die gespeicherte Version, die App läuft offline weiter.
    Bei einer neuen Version VERSION hochzählen. */
-const VERSION = 'sn-notizen-v3';
+const VERSION = 'sn-notizen-v4';
 const FILES = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 
