@@ -1,6 +1,6 @@
 /* SN Notizen – Service Worker: hält die App offline auf dem Gerät.
    Bei einer neuen Version nur VERSION hochzählen. */
-const VERSION = 'sn-notizen-v1';
+const VERSION = 'sn-notizen-v2';
 const FILES = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 
